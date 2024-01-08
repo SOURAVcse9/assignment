@@ -1,0 +1,170 @@
+header,main,footer{
+    justify-content: center;
+    
+   
+    align-items: center;
+ 
+}
+body {
+    margin:140px;
+}
+.bannar_1, .add, .welcome-container{
+
+align-items: center;
+
+}
+
+.bannar_1{
+    align-items: center;
+
+    background-image: url('../images/Banner\ Image.png');
+margin: 50px 140px;
+width: 1320px;
+height: 600px;
+
+text-align: center;
+background-position: center;
+font-family:'merriweather';
+color: #FFF;
+border-radius: 16px;
+background-repeat: no-repeat;
+}
+
+.happy{
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+
+padding: 177px 530px 0px 530px;
+margin-bottom:0 px;
+}
+.new{
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+margin: 0px 344px 177px 344px;
+}
+.add{
+    width: 1600px;
+/* height: 7335px; */ 
+background-color: white;
+text-align: center;
+margin-left: 400;
+margin-right: 400;
+align-items: center;
+}
+.middle{
+  
+text-align: center;
+font-family: Inter;
+
+}
+.off{
+    color: #F00;
+font-size: 88px;
+font-weight: 700;
+}
+.about{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 16px;
+}
+.all{
+    color: #070211;
+font-size: 48px;
+font-weight: 700;
+}
+.new-year{
+    width: 802.9px;
+height: 500px;
+}
+.welcome-container{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 125px;
+    margin: 140px;
+    width: 1320px;
+height: 600px;
+display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.welcome{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+margin: 125px;
+margin-bottom: 0px;
+}
+.about-welcome{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 697px;
+margin-left: 125px;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.button{
+    color: #e60c0c;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+margin-left: 160px;
+border-radius: 5px;
+}
+.welcome-container.image-2024{
+   
+width: 319.83px;
+height: 464.662px;
+align-items: center;
+}
+.welcome-body{
+   
+    
+}
+.address{
+     width: 100%;
+     height: 100%;
+     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0) 100%); 
+
+    padding: 130px;
+    border-radius: 16px;
+    /* background: #f36b0b; */
+    align-items: center;
+    text-align: center;
+}
+.color{
+    color: #FF0000;
+}
+.btn{
+    border-radius: 5px;
+    background: #f60505;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding:15px 35px;
+    margin-right: 30px;
+    text-align: center;
+    margin-top:20px;
+}
+.s{
+    margin:100px,385px,0px,385px;
+    font-size: 32px;
+font-family: Inter;
+font-weight: 600;
+line-height: 56px;
+}
+
+
