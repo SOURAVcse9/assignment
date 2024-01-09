@@ -318,3 +318,67 @@ color: #070211;
     border-radius: 16px;
     margin-bottom:24px;
 }
+.subscribe-form{
+    text-align: center;
+    align-items: center;
+    background-color: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    margin: 140px;
+}
+.mail{
+    /* width: 150px; */
+/* height: 150px; */
+margin: 80px 585px 20px 500px;
+}
+.sn{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+/* font-weight: 900; */
+text-transform: capitalize;
+/* margin:0px 404px 10px 404px; */
+}
+.subscribe-about{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+margin: 0px 212px 48px 212px;
+}
+.for-input{
+    /* width: 648px;
+height: 72px; */
+text-align: center;
+align-items: center;
+border-radius: 16px;
+border-color: #e60c0c;
+/* margin: 0px 336px 80px 336px; */
+margin-bottom: 400px;
+}
+.input{
+    width: 648px;
+height: 70px;
+flex-shrink: 0;
+border-radius: 50px 0px 0px 50px;
+background: #FFF;
+align-items: center;
+text-align: center;
+margin-right: 0%;
+border:none;
+}
+.bton{
+    background-color: red;
+    text-align: center;
+    color: white;
+    margin-bottom: 80px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+height: 70px;
+border:none;
+margin-left:0%;
+
+}
